@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://aravmahind.vercel.app/](https://aravmahind.vercel.app/)
+- 👨‍💻 My Porfolio [https://aravmahind.vercel.app/](https://aravmahind.vercel.app/)
 
 - 📫 How to reach me **aravmahind3@gmail.com**
 
