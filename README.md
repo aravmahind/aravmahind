@@ -2,15 +2,23 @@
 
 ###
 
-<p align="left">Hey! I'm a Computer Engineering student who loves turning ideas into real-world tech solutions. <br>These days, I'm diving into full-stack development and cloud tech to bring my projects to life.</p>
+<p align="center">Hey! I'm a Computer Engineering student who loves turning ideas into real-world tech solutions. <br>These days, I'm diving into full-stack development and cloud tech to bring my projects to life.</p>
 
 ###
 
-<h3 align="left">About Me</h3>
+<p align="left"></p>
 
 ###
 
-<p align="left">✨I am pursuing Btech in Computer Engineering<br>📚 I'm currently learning AI/ML<br>🎯 Goals: To solve problems using technologies<br>🎲 Fun fact: I also use AI tools to speed up my work</p>
+<h3 align="center">About Me</h3>
+
+###
+
+<p align="center">✨I am pursuing Btech in Computer Engineering<br>📚 I'm currently learning AI/ML<br>🎯 Goals: To solve problems using technologies<br>🎲 Fun fact: I also use AI tools to speed up my work</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -25,6 +33,10 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -95,8 +107,18 @@
 ###
 
 <div align="center">
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=aravmahind&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=aravmahind&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
 </div>
 
 ###
